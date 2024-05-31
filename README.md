@@ -11,5 +11,6 @@ The hardware failure types are encoded as follows:
 - 2: Cable failure, 207 observations
 - 3: Power failure: 336 observations
 
-If you find this dataset useful for your research, please consider citing the following paper. Thank you very much!
-TBD
+If you find this dataset useful for your research, please consider citing the following paper: https://ieeexplore.ieee.org/document/10543089 
+Thank you very much!
+
