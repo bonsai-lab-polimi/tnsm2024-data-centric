@@ -11,6 +11,15 @@ The hardware failure types are encoded as follows:
 - 2: Cable failure, 207 observations
 - 3: Power failure: 336 observations
 
-If you find this dataset useful for your research, please consider citing the following paper: https://ieeexplore.ieee.org/document/10543089 
+If you find this dataset useful for your research, please consider citing the following [paper](https://ieeexplore.ieee.org/document/10543089):
+```bibtex
+@ARTICLE{dicicco2024datacentric,
+  author={Cicco, Nicola Di and Ibrahimi, Memedhe and Musumeci, Francesco and Bruschetta, Federica and Milano, Michele and Passera, Claudio and Tornatore, Massimo},
+  journal={IEEE Transactions on Network and Service Management}, 
+  title={Machine Learning for Failure Management in Microwave Networks: A Data-Centric Approach}, 
+  year={2024},
+  doi={10.1109/TNSM.2024.3406934}}
+```
+
 Thank you very much!
 
